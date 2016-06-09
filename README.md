@@ -1,3 +1,3 @@
-# booom-initial-standard :boom:
+# booom--standard :boom:
 
-> A initial [BOOOM!](https://github.com/andreruffert/booom) template to kickstart new projects.
+> My standard [BOOOM!](https://github.com/andreruffert/booom) template to kickstart a new project.
